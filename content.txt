@@ -1,18 +1,11 @@
-<header>
-<h1>Super Epic Tile Layer</h1>
-</header>
+Super Epic Tile Layer
 
-<section>
- $35
- (In stock)
- Img
-</section>
+$35
+(In stock)
 
-<article>
-	Ages: 8+
-	Number players: 2–5
-	Length: 45 min
-</article>
+Ages: 8+
+Number players: 2–5
+Length: 45 min
 
 Average Rating: 4/5
 
